@@ -12,7 +12,6 @@ ReactJs | React Native | Django | javascript | Python | HTML | CSS
 * 🚀  I'm currently working on [Tack](http://tack.one)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Data science, AI
-* ⚡  I'm secretly programmer... but don't tell anybody 😜
 
 <a href="https://www.github.com/azadhmhd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
