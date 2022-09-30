@@ -46,6 +46,14 @@ src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12896809/azad-mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+### My Projects
+
+- [Tack](https://tack.one/) - Efficient and effortless time tracking app built to manage your team and projects on the go.
+- [Spovio](https://app.spovio.com/) - An all-in-one HR software made for small and medium businesses and the people who work in them.
+- [Puretax](https://puretax.stead.global/) - Pure Tax renders accounting, bookkeeping, payroll, employee benefit plans, taxation & management consulting services.
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
