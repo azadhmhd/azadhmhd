@@ -12,7 +12,7 @@ ReactJs | React Native | Django | javascript | Python | HTML | CSS
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/azadhmhd/)
 * ✉️  You can contact me at [azadhmhd@gmail.com](mailto:azadhmhd@gmail.com)
-* 🚀  I'm currently working on [Tack](http://tack.one)
+* 🚀  I'm currently working on [Tack](https://tack.one/) and [Kipe.co](https://app.kipe.co/)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Data science, AI
 
