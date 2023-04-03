@@ -1,3 +1,6 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
+
 Hi 👋 My name is Azad Mohamed
 =============================
 
@@ -54,14 +57,22 @@ src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-
 - [Puretax](https://puretax.stead.global/) - Pure Tax renders accounting, bookkeeping, payroll, employee benefit plans, taxation & management consulting services.
 
 
-### Badges
-
+<!-- ### Badges -->
+<!-- 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/azadhmhd"><img src="https://github-readme-stats.vercel.app/api?username=azadhmhd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azadhmhd's GitHub stats" /></a>
 
 <a href="http://www.github.com/azadhmhd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azadhmhd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+ -->
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/azadhmhd/scheduler-calendar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=azadhmhd&repo=scheduler-calendar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<p>
+    <details>
+     <summary><strong>Github Stats</strong></summary>
+     
+[![Azad Hossain's github stats](https://github-readme-stats.vercel.app/api?username=azadhmhd&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/azadhmhd?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadhmhd&layout=compact&langs_count=6&theme=blue-green)](https://github.com/azadhmhd)
+    </details>
+</p>
