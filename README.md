@@ -76,3 +76,8 @@ src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-
 [![Azad Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=azadhmhd&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/azadhmhd?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadhmhd&layout=compact&langs_count=6&theme=blue-green)](https://github.com/azadhmhd)
     </details>
 </p>
+
+
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/azadhmhd?v=3)
+
