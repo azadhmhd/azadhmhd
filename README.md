@@ -78,6 +78,3 @@ src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-
 </p>
 
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/azadhmhd?v=3)
-
