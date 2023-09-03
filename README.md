@@ -12,9 +12,7 @@ ReactJs | React Native | Django | javascript | Python | HTML | CSS
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/azadhmhd/)
 * ✉️  You can contact me at [azadhmhd@gmail.com](mailto:azadhmhd@gmail.com)
-* 🚀  I'm currently working on [Tack](https://tack.one/) and [Kipe.co](https://app.kipe.co/)
-* 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on Data science, AI
+
 
 <a href="https://www.github.com/azadhmhd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -49,12 +47,18 @@ src="https://img.shields.io/github/followers/azadhmhd?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12896809/azad-mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/azadhmhd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-### My Projects
+### Projects
 
 - [Tack](https://tack.one/) - Efficient and effortless time tracking app built to manage your team and projects on the go.
-- [Spovio](https://app.spovio.com/) - An all-in-one HR software made for small and medium businesses and the people who work in them.
-- [Puretax](https://puretax.stead.global/) - Pure Tax renders accounting, bookkeeping, payroll, employee benefit plans, taxation & management consulting services.
+- [Kipe](https://kipe.co/) - Efficient accounting made easy. No clutter, no confusion. Powerful, intuitive and fast. Kipe makes it easier to manage and grow your business finance.
+- [Scheduler-calendar](https://www.npmjs.com/package/scheduler-calendar) - An open-source library integrated with Stead, allowing users to mark availabilities.
+- [TypemateAi](https://typemate.ai/) - Simplify your daily tasks using AI for everywhere. Our Chrome plugin is designed to help you manage your tasks in a more streamlined and effective way by integrating seamlessly with ChatGPT.
+
+### Other Projects
+
+- [Spovio](https://app.spovio.com/) - An all-in-one HR software solution that handles employee tracking, position management, and leave management, etc.
+- [Puretax](https://puretax.stead.global/) - •Puretax offers accounting, bookkeeping, payroll, employee benefit plans, taxation, and management consulting services. It also integrate with QuickBooks accounting software.
+- [inQuestAI](https://inquestai.com/) - InQuest AI is an AI learning platform that offers real-life AI conversations, showcasing the potential of AI tools and plugins. Connect with a dynamic AI community, explore personalized AI journeys, and collaborate in focused groups. Unlock the power of AI with InQuest AI and embark on an exciting learning journey.
 
 
 <!-- ### Badges -->
